@@ -3,7 +3,6 @@ import { RadioFullIcon, RadioIcon } from "@/app/assets/icons/icons";
 import React from "react";
 
 export default function RightProgress({ data, active }: any) {
-  console.log(data);
   return (
     <div>
       <h2 className="text-[#1D2939] text-[18px] font-medium mb-[24px] (--font-family-Inter)">

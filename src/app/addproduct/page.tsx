@@ -11,7 +11,6 @@ import Specification from "./_components/Specification";
 
 export default function Page() {
   const [active, setActive] = useState<number>(2);
-  console.log(active);
   type Data = {
     id: number;
     title: string;

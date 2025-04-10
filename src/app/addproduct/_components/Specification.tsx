@@ -39,7 +39,7 @@ export default function Specification() {
                   <input
                     type="text"
                     className="outline-none border-none"
-                    style={{background:"none"}}
+                    style={{ background: "none" }}
                     value={"Basic Information"}
                   />
                 </div>

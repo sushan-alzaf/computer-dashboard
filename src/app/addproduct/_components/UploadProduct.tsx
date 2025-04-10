@@ -17,7 +17,6 @@ export default function UploadProduct() {
       setImage(newImage);
     }
   };
-  console.log(image);
 
   return (
     <div className="bg-white p-5 rounded-[14px] mt-5">
