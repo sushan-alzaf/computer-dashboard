@@ -81,7 +81,7 @@ export default function Specification() {
               <div className="flex gap-6 mt-[40px]">
                 <button
                   onClick={handleAddRow}
-                  className="border  border-dashed rounded-2 w-full flex items-center justify-center text-[#98A2B3] text-sm font-medium leading-5 gap-2 py-[10px] px-[14px]"
+                  className="border  border-dashed rounded-[8px] w-full flex items-center justify-center text-[#98A2B3] text-sm font-medium leading-5 gap-2 py-[10px] px-[14px]"
                 >
                   <span>
                     <NonPlusIcon />
